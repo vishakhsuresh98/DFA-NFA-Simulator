@@ -20,5 +20,5 @@ To run the lex program
 3. The lex program has now been built and the executable file mylex is ready.
 4. To run the executable file, type
    ./mylex (1-DFA or 0-NFA) (number of states) (number of final states) (number of symbols in the alphabet)
-5. To remove the unnecessay files, type make remove into the terminal.
+5. To remove the unnecessary files, type make remove into the terminal.
    The executable file mylex and lex.yy.c will be removed
