@@ -1,5 +1,5 @@
 # DFA-NFA-Simulator
-This is a lex program which implements a generic table-driven lexical analyzer to verify a given input string against a DFA or NFA represented in the form of a transition table.
+This is a lex program which implements a generic table-driven lexical analyzer to verify a given input string against a DFA or NFA provided as input in the form of a transition table.
 
 Getting Started
 ---------------
